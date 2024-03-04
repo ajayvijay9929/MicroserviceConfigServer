@@ -1,8 +1,8 @@
 # this is default config file 
 
-spring:
-  application:
-    name: ConfigServer
+# spring:
+#   application:
+#     name: ConfigServer
     
 eureka:
   instance:
